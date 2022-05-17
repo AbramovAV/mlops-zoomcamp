@@ -1,0 +1,1 @@
+This repo contains code for assignments of course MLOps Zoomcamp.
